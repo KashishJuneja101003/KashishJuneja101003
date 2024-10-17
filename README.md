@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
 <h3 align="center">I'm currently pursuing my Master's in Computer Applications (MCA) at [Indira Gandhi Delhi Technical University for Women (IGDTUW)](https://www.igdtuw.ac.in/). I'm passionate about leveraging technology to solve real-world problems and constantly strive to improve my skills.</h3>
 
+<img align="right" alt="coding" width=400 src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishjuneja101003&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjuneja101003" /> </p>
 
 - 📫 How to reach me **kashishjuneja1010@gmail.com**
