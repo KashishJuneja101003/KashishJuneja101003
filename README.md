@@ -91,10 +91,10 @@
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjuneja101003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p> <br><br><br><br><br><br>
+</p> <br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kashishjuneja101003&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> <br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjuneja101003" alt="GitHub Streak" />
 </p>
