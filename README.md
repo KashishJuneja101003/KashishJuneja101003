@@ -1,42 +1,27 @@
-## 👋 Hi there, I'm Kashish!
+<h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
+<h3 align="center">I'm currently pursuing my Master's in Computer Applications (MCA) at [Indira Gandhi Delhi Technical University for Women (IGDTUW)](https://www.igdtuw.ac.in/). I'm passionate about leveraging technology to solve real-world problems and constantly strive to improve my skills.</h3>
 
-I'm currently pursuing my Master's in Computer Applications (MCA) at [Indira Gandhi Delhi Technical University for Women (IGDTUW)](https://www.igdtuw.ac.in/). I'm passionate about leveraging technology to solve real-world problems and constantly strive to improve my skills.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishjuneja101003&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjuneja101003" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishjuneja101003" alt="kashishjuneja101003" /></a> </p>
 
-### 🌟 A little about me:
-- 🎓 MCA student at IGDTUW
-- 💡 Passionate about innovation, problem-solving, and technology
-- 🔍 Always learning and exploring new areas in tech
-- 🌱 Currently growing my knowledge in **Deep Learning** and **Machine Learning**
-- 📚 Strong foundation in **Data Structures and Algorithms**
-- 🧠 Always excited to work on challenging projects and learn something new
+- 📫 How to reach me **kashishjuneja1010@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kashish juneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish juneja" height="30" width="40" /></a>
+<a href="https://fb.com/kashish juneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kashish juneja" height="30" width="40" /></a>
+<a href="https://instagram.com/kashishjuneja_1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashishjuneja_1010" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kashish juneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish juneja" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kashishjuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashishjuneja" height="30" width="40" /></a>
+<a href="https://discord.gg/Kashish Juneja | Contributor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kashish Juneja | Contributor" height="30" width="40" /></a>
+</p>
 
-### ⚡️ What I'm working on:
-- Contributing to open-source projects
-- Solving **Problem of the Day** challenges on GeeksforGeeks
-- Researching and experimenting with new concepts in AI and Machine Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjuneja101003&show_icons=true&locale=en&layout=compact" alt="kashishjuneja101003" /></p>
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/kashish-juneja-756673209)  
-- [Instagram](https://www.instagram.com/kashishjuneja_1010/)  
-- [Facebook](https://www.facebook.com/KashishJuneja921/)
-- [Email](mailto:kashishjuneja1010@gmail.com/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashishjuneja101003&show_icons=true&locale=en" alt="kashishjuneja101003" /></p>
 
-Let's connect and build something amazing together!
-
----
-
-### 🔧 Tools & Technologies:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🏆 GitHub Stats:
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjuneja101003&" alt="kashishjuneja101003" /></p>
