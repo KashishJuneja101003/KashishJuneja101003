@@ -1,4 +1,4 @@
-![logo](https://github.com/KashishJuneja101003/KashishJuneja101003/blob/main/github-header-image.png)
+!--![logo](https://github.com/KashishJuneja101003/KashishJuneja101003/blob/main/github-header-image.png)--!
 
 <h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
 <h3 align="center">I'm currently pursuing my Master's in Computer Applications (MCA) at [Indira Gandhi Delhi Technical University for Women (IGDTUW)](https://www.igdtuw.ac.in/). I'm passionate about leveraging technology to solve real-world problems and constantly strive to improve my skills.</h3>
