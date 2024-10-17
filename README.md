@@ -88,10 +88,10 @@
   </a>
 </p>
 
-<h3 align="right">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjuneja101003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p> <br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kashishjuneja101003&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
