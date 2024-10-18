@@ -40,6 +40,6 @@
 <h3 align="left">Badges:</h3>
 <p align="left">
   <a href="https://www.holopin.io/@kashishjuneja" target="_blank">
-    <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ehnnf6192390clgsbr7nw9i" alt="Holopin Badge" width="200" />
+    <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ehnnf6192390clgsbr7nw9i.svg" alt="Holopin Badge" width="200" />
   </a>
 </p>
