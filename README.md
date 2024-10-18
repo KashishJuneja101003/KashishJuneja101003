@@ -5,7 +5,7 @@
   <a href="https://www.igdtuw.ac.in/" target="_blank">Indira Gandhi Delhi Technical University for Women (IGDTUW)</a>. 
   I'm passionate about leveraging technology to solve real-world problems and constantly strive to improve my skills.
 </h3>
-
+[![An image of @kashishjuneja101003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashishjuneja101003)](https://holopin.io/@kashishjuneja101003)
 <img align="right" alt="coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 <p align="left">
