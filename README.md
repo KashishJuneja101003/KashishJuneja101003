@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=kashishjuneja101003&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjuneja101003" />
 </p>
 
-![Holopin Badge](cm2ehnnf6192390clgsbr7nw9i)
-
 - 📫 How to reach me: **[Email](mailto:kashishjuneja1010@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
