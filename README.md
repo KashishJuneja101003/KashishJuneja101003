@@ -89,6 +89,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+![logo](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ehnnf6192390clgsbr7nw9i)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjuneja101003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p> <br><br><br><br><br><br><br><br>
