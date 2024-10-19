@@ -1,3 +1,5 @@
+[![An image of @kashishjuneja101003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashishjuneja101003)](https://holopin.io/@kashishjuneja101003)
+
 <h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
 
 <h3 align="center">
