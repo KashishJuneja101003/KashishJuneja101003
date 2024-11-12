@@ -1,4 +1,3 @@
-[![Kaggle Profile](https://img.shields.io/badge/Kaggle-@kashishjuneja1010-blue)](https://www.kaggle.com/kashishjuneja1010)
 
 [![An image of @kashishjuneja101003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashishjuneja101003)](https://holopin.io/@kashishjuneja101003)
 
@@ -38,6 +37,10 @@
   <a href="https://discord.gg/KashishJuneja" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
+  <a href="https://www.kaggle.com/kashishjuneja1010" target="_blank">
+    <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
