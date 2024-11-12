@@ -1,3 +1,5 @@
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-@kashishjuneja1010-blue)](https://www.kaggle.com/kashishjuneja1010)
+
 [![An image of @kashishjuneja101003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashishjuneja101003)](https://holopin.io/@kashishjuneja101003)
 
 <h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
@@ -101,7 +103,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-
 
 <h3 align="left">GitHub Stats:</h3>
 
