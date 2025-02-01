@@ -120,4 +120,4 @@
 
 <br><br><br><br><br><br><br><br>
 <h3 align="left">Linkedin:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kashish-juneja-756673209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kashish-juneja-756673209?trk=profile-badge">Kashish Juneja</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kashish-juneja-756673209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kashish-juneja-756673209?trk=profile-badge">Kashish Juneja</a></div>
