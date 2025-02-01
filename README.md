@@ -1,4 +1,3 @@
-
 [![An image of @kashishjuneja101003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashishjuneja101003)](https://holopin.io/@kashishjuneja101003)
 
 <h1 align="center">Hi 👋, I'm Kashish Juneja</h1>
@@ -119,6 +118,6 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjuneja101003" alt="GitHub Streak" />
 </p>
 
+<br><br><br><br><br><br><br><br>
 <h3 align="left">Linkedin:</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kashish-juneja-756673209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kashish-juneja-756673209?trk=profile-badge">Kashish Juneja</a></div>
