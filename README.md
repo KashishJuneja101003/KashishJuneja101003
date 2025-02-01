@@ -117,9 +117,3 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjuneja101003" alt="GitHub Streak" />
 </p>
-
-<br><br><br><br><br><br><br><br>
-<h3 align="left">Linkedin:</h3>
-<a href="https://www.linkedin.com/in/kashish-juneja-756673209/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
